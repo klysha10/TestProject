@@ -1,4 +1,4 @@
 * text=auto
-*.bat text eol=crlf  # Для скриптов Windows
+*.bat text eol=crlf
 *.png binary
 *.jpg binary
